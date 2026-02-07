@@ -1,0 +1,21 @@
+{
+  "name": "smooth-eleganz",
+  "displayName": "Smooth Eleganz",
+  "description": "A dark theme with a flat look, gold accent and muted colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Smooth Eleganz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Smooth Eleganz-color-theme.json"
+      }
+    ]
+  }
+}
