@@ -1,16 +1,22 @@
-# smooth-eleganz README
+# The Smooth Eleganz Theme
 
-## Working with Markdown
+For vs code
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![1770571212731](image/README/1770571212731.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## About
 
-## For more information
+this themes origin is a modified gruvbox theme, it started with me just playing with the colors using the default colors from gruvbox but with a changed background #171717 for a darker gruvbox look. After a while i adjusted the color saturation of the colorful elements in and moved to a cooler softer dark color with golden accents. i also moved away from the original text color to use my own that would fit the theme better.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+It is also a flat theme without border in most places
 
-**Enjoy!**
+### Version: 0.0.1
+
+this is the first version of this theme and probably the only version of this theme unless something majorly breaks
+
+**features:**
+
+- visual studio code all encompassing color
+- terminal color
+- markdown preview color
+- git color
