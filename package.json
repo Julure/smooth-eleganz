@@ -2,6 +2,9 @@
   "name": "smooth-eleganz",
   "displayName": "Smooth Eleganz",
   "description": "A dark theme with a flat look, gold accent and muted colors.",
+  "images": {
+    "theme": "images/smooth-eleganz.png"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.109.0"
